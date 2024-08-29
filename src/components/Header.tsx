@@ -8,8 +8,8 @@ export const Header: FunctionComponent = () => {
 
     return (
         <header className={classes.wrapper}>
-            <h1>Mambet Pages</h1>
-
+            <h1>Memegram</h1>
+    
             <nav className={classes.nav}>
                 <NavLink to='/'>all articles</NavLink>
                 <NavLink to='/my-articles'>my articles</NavLink>
